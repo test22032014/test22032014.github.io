@@ -1,4 +1,5 @@
 ---
+layout: default
 title: MD Test
 ---
 # Hello Markdown
